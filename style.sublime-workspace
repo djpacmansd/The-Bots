@@ -1,0 +1,377 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"top",
+				"top-bar-cont"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "list",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list packages",
+				"Package Control: List Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Changelog"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pacman/Library/Application Support/Sublime Text 3/Packages/AutoBackups/AutoBackups (OSX).sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/css/reset.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/front-page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/header-home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/awesome-0116-master/archive-product.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/page-about.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/awesome-0116-master/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/awesome-0116-master/page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/sidebar-home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/sidebar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/sidebar-page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/css/custom-ninjaforms.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/footer-home.php",
+		"/Users/pacman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/functions/shortcodes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/plugins/bots-crews.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/archive-instructors.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/archive-products.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/archive-totbots.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/functions/ninjaforms-css.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/functions/advanced-custom-fields/acf.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/awesome-0116-master/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/awesome-0116-master/front-page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/blog/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/awesome-0116-master/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/awesome-0116-master/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/js/html5shiv.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/functions/admin-menu.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/functions/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/searchform.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/front-page3.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/front-page 2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/js/responsiveslides.min.js",
+		"/Users/pacman/Library/Application Support/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/Users/pacman/Library/Application Support/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+		"/Users/pacman/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/XAMPP/xamppfiles/htdocs/thebotsdancecrew/wp-content/themes/thebots/js/main.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"flex-flow",
+			"transition",
+			"body",
+			"max-width",
+			".section",
+			"fullpage",
+			"aside",
+			"wrapper",
+			"widget-text",
+			"widget",
+			"700",
+			".section p",
+			"#sidebar[data-anchor=\"section-sidebar\"] .widget p",
+			"maxwidth",
+			"max",
+			".page #content",
+			".orange",
+			".entry-content",
+			"social",
+			"33.3333",
+			"48%",
+			".widget-title",
+			";\n",
+			".widget-title",
+			".widget-title {\nfont-size: 14vw;\n}",
+			".widget-title",
+			".widget",
+			"aside",
+			"sidebar",
+			".orange",
+			".page",
+			"page",
+			"entry-title",
+			";\n",
+			"SIDEBAR",
+			"width",
+			"all .3s ease-out .5s",
+			"short",
+			" .5s",
+			"footer",
+			"admin-bar",
+			".top-bar-cont",
+			"all .3s ease-out .5s",
+			"title",
+			"slimscroll",
+			"menu",
+			"instructors",
+			"image",
+			"upload",
+			"background - image",
+			"frontpage",
+			"fullpage ",
+			"normal",
+			"normalScroll",
+			";\n",
+			"YOUR_PREFIX",
+			"1s",
+			"main-section",
+			".2",
+			".5",
+			"main-section",
+			"3s",
+			".3s",
+			"scroll",
+			"latest",
+			"lastest updates",
+			".orange",
+			"background-position",
+			"bots_slider",
+			"transition",
+			"button",
+			"fa-chevron-down",
+			"body span",
+			".body span",
+			"icon-arrow-hint",
+			"admin-bar header",
+			"acf",
+			"\"))\n",
+			"@media",
+			"top-bar",
+			"include",
+			"full",
+			"max-width",
+			"logo",
+			"upload logo",
+			"frontpage-background-image3",
+			"frontpage-background-image2",
+			"frontpage-background-image1",
+			"frontpage-background-image",
+			"bots_logo",
+			"footer area",
+			"query",
+			"latest-post-info",
+			"excerpt",
+			"query",
+			"custom",
+			"read",
+			"anchors",
+			"custom query",
+			"custom",
+			"query",
+			"slim",
+			"excerpt",
+			"25",
+			"responsive slides",
+			"}\n",
+			"excerpt",
+			"1",
+			"excerpt",
+			"slides",
+			"responsive",
+			"js slides",
+			"ease-in",
+			"menu",
+			"6",
+			"menu",
+			"active",
+			"hover",
+			".example5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
